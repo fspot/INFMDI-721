@@ -1,0 +1,541 @@
+alcohol,name,price,beer_style,volume
+0.054000000000000006,Ninkasi Ploploplop,2.89,India Pale Ale,330.0
+0.005,Brewdog Nanny State Alcoholvrij,2.29,Sans alcool,330.0
+0.056,Ardwen Blonde,2.09,Best-sellers,330.0
+0.07,Cuvée des Trolls,1.55,Blonde,250.0
+0.005,Weihenstephan Hefe Weizen Alcoholarm,1.59,Blanche & Weizen,500.0
+0.045,Bellfield Lawless Village IPA,2.49,India Pale Ale,330.0
+0.084,Pauwel Kwak,1.69,Belge blonde forte & Golden Ale,330.0
+0.065,Brasserie De Sutter Brin de Folie,2.19,Blonde,330.0
+0.06,Brugse Zot blonde,1.79,Blonde,330.0
+0.085,La Divine,1.39,Blonde,330.0
+0.09,Queue De Charrue triple,2.09,Triple,330.0
+0.005,Paulaner Hefe Weissbier Alcoholvrij,1.9,Sans alcool,330.0
+0.0,"Budels Malty Dark 0,0%",0.79,Sans alcool,300.0
+0.095,St. Feuillien Grand Cru,2.19,Belge blonde forte & Golden Ale,330.0
+0.065,La Trappe Blonde,1.29,Blonde,330.0
+0.07,Brand IPA,1.29,India Pale Ale,300.0
+0.069,Roman Rebelse Strop,1.79,Blonde,330.0
+0.0,"Budels Malt 0,0%",0.89,Sans alcool,300.0
+0.045,Ardwen Blanche,2.09,Blanche & Weizen,330.0
+0.07200000000000001,Goudale  Blonde,1.29,Bière de garde & Saison,330.0
+0.085,Rince Cochon blonde,2.49,Blonde,330.0
+0.062,De Molen Vuur & Vlam IPA,2.09,India Pale Ale,330.0
+0.052000000000000005,Palm,0.79,Ambrée,250.0
+0.005,Erdinger Alcohol vrij,1.25,Sans alcool,330.0
+0.005,vandeStreek Playground IPA sans alcool,2.19,India Pale Ale,330.0
+0.053,Erdinger Hefeweizen,1.09,Blanche & Weizen,330.0
+0.056,Brewdog Punk IPA,2.79,India Pale Ale,330.0
+0.08,Chimay Wit,1.65,Triple,330.0
+0.003,Jever  Fun,1.15,Pils & Lager,330.0
+0.005,Budweiser sans alcool,0.99,Sans alcool,330.0
+0.07,Brasserie De Sutter Dément'brée,2.29,Ambrée,330.0
+0.052000000000000005,Brooklyn Lager,1.99,Pils & Lager,360.0
+0.079,G De Goudale Grand Cru,1.89,Belge blonde forte & Golden Ale,330.0
+0.066,Queue De Charrue blonde,1.79,Blonde,330.0
+0.085,Cornet,1.99,Blonde,330.0
+0.12,Démon,1.79,Belge blonde forte & Golden Ale,330.0
+0.08,Gulpener Spicy Roger,1.69,India Pale Ale,300.0
+0.053,Erdinger Hefeweizen,1.89,Blanche & Weizen,500.0
+0.08,St. Bernardus Tripel,1.89,Triple,330.0
+0.09,Chimay Blauw,1.79,Trappiste & Abbaye,330.0
+0.055,Queue De Charrue ambrée,1.59,Ambrée,330.0
+0.09,Affligem Tripel,1.31,Triple,300.0
+0.09,Grimbergen Tripel,1.99,Triple,330.0
+0.065,Brasserie De Sutter Crazy IPA,2.69,India Pale Ale,330.0
+0.069,Brooklyn East IPA,2.29,India Pale Ale,360.0
+0.07,Chimay Rood,1.55,Trappiste & Abbaye,330.0
+0.065,Brewdog Elvis Juice,2.59,India Pale Ale,330.0
+0.065,Ardwen Ambrée,2.09,Ambrée,330.0
+0.06,Maisel & Friends Citrilla,1.99,India Pale Ale,330.0
+0.048,De Molen Hop & Liefde,2.09,Pale Ale,330.0
+0.04,Mort Subite Kriek Lambic Tradition,1.8,Fruitée & aromatisée,250.0
+0.06,Rodenbach Grand Cru,1.99,Bière acidulée,330.0
+0.07,Oedipus Gaia IPA,2.59,India Pale Ale,330.0
+0.065,Brouwerij 't IJ IJwit,2.19,Blanche & Weizen,330.0
+0.045,Mort Subite Geuze Lambic,1.39,Bière acidulée,250.0
+0.045,Jopen Life's A Beach Session IPA,2.39,India Pale Ale,330.0
+0.051,Brand Weizen,1.09,Blanche & Weizen,300.0
+0.038,Brewdog Dead Pony Club,2.29,Pale Ale,330.0
+0.09,La Chouffe Houblon,2.49,Belge blonde forte & Golden Ale,330.0
+0.065,Jopen Mooie Nel IPA,2.49,India Pale Ale,330.0
+0.064,Hoop Kaper,2.39,India Pale Ale,330.0
+0.07,Brlo German IPA,1.99,India Pale Ale,330.0
+0.1,St. Bernardus Abt 12,2.09,Quadruple & Barleywine,330.0
+0.06,Ninkasi Noire,2.89,Stout & Porter,330.0
+0.07,Ciney Blonde,1.39,Blonde,250.0
+0.085,Judas,1.99,Belge blonde forte & Golden Ale,330.0
+0.08,La Chouffe Blonde D'ardenne,2.29,Belge blonde forte & Golden Ale,330.0
+0.068,Brasserie De Sutter La Folle des Bois,2.59,Fruitée & aromatisée,330.0
+0.07200000000000001,Goudale IPA,1.89,India Pale Ale,330.0
+0.08,Triple Secret Des Moines Blonde,1.79,Triple,330.0
+0.07200000000000001,Brewdog Jack Hammer,2.99,India Pale Ale,330.0
+0.085,Delirium Tremens,1.95,Belge blonde forte & Golden Ale,330.0
+0.035,Grisette Fruits des Bois,1.99,Fruitée & aromatisée,250.0
+0.065,Bellerose IPA,2.89,India Pale Ale,330.0
+0.085,Abbaye du Lys,2.09,Triple,330.0
+0.063,Maisel & Friends IPA,1.99,India Pale Ale,330.0
+0.07,Kasteel Blonde,1.69,Blonde,330.0
+0.085,Hapkin,2.49,Belge blonde forte & Golden Ale,330.0
+0.085,Brasserie De Sutter Sombre Folle,2.39,Brune,330.0
+0.056,Siren Sound Wave,2.59,India Pale Ale,330.0
+0.045,Lindemans Faro,1.69,Bière acidulée,380.0
+0.062,Duchesse De Bourgogne,1.69,Bière acidulée,250.0
+0.07200000000000001,Goudale Ambrée,1.59,Ambrée,330.0
+0.09,Gouden Carolus Triple,2.09,Triple,330.0
+0.05,Jopen Adriaan Wit,1.85,Blanche & Weizen,330.0
+0.055,Brunehaut blonde bio,1.99,Blonde,330.0
+0.118,Brasserie De Sutter Quadruple viellie en fût de Calvados,6.49,Quadruple & Barleywine,330.0
+0.105,Brasserie De Sutter ZinZin,2.69,Quadruple & Barleywine,330.0
+0.1,De Leckere Blauwe Bijl,1.89,Quadruple & Barleywine,250.0
+0.065,Dupont Saison,1.99,Bière de garde & Saison,330.0
+0.052000000000000005,Asahi Super Dry,1.79,Pils & Lager,330.0
+0.055,Fierce Cranachan Killer,2.69,Pale Ale,330.0
+0.028,Belzebuth Pink,2.09,Fruitée & aromatisée,330.0
+0.068,Affligem Dubbel,1.2,Trappiste & Abbaye,300.0
+0.055,Walhalla Loki,2.59,India Pale Ale,330.0
+0.058,Siren Liquid Mistress,2.59,India Pale Ale,330.0
+0.045,Bellfield Bohemian Pilsner,2.49,Pils & Lager,330.0
+0.06,Urthel Saisonniere 6,1.39,Bière de garde & Saison,330.0
+0.07,Anderson Valley Hop Ottin' IPA,2.79,India Pale Ale,360.0
+0.045,Budels Honing Bio,1.25,Pils & Lager,300.0
+0.05,De Leckere Witte Vrouwen,1.19,Blanche & Weizen,250.0
+0.03,Brouwerij Noordt New England IPA,2.59,India Pale Ale,330.0
+0.085,Belzebuth Rouge,2.35,Fruitée & aromatisée,330.0
+0.054000000000000006,Queue De Charrue vieille brune,1.79,Brune,330.0
+0.05,Brlo Helles,1.89,Les nouveautés,330.0
+0.045,Galway Bay Buried at Sea,2.49,Stout & Porter,330.0
+0.065,Uberquell World White IPA,2.29,India Pale Ale,330.0
+0.084,Ninkasi Triple,2.89,Triple,330.0
+0.047,Fuller's London Pride,1.79,Pale Ale,330.0
+0.08,Brasserie Lefebvre Barbar Blonde,2.49,Belge blonde forte & Golden Ale,330.0
+0.085,St. Feuillien Tripel,2.89,Triple,330.0
+0.065,Bellerose blonde,2.79,Blonde,330.0
+0.06,Harviestoun Old Engine Oil,2.19,Stout & Porter,330.0
+0.055,Paulaner Hefeweizen Naturtrüb,2.89,Blanche & Weizen,500.0
+0.045,Altiplano Bio,2.59,Blanche & Weizen,330.0
+0.05,Chang Beer,1.35,Pils & Lager,320.0
+0.065,Brussels Beer Project Delta Ipa,2.95,India Pale Ale,330.0
+0.06,La Rouget De Lisle Vieux Tuyé,2.69,Ambrée,330.0
+0.045,Brewdog Vagabond,2.79,Pale Ale,330.0
+0.05,Budweiser Budvar Original,1.49,Pils & Lager,330.0
+0.113,Rochefort 10',3.5,Trappiste & Abbaye,330.0
+0.067,Anchor Brewing Go West IPA,2.79,India Pale Ale,360.0
+0.06,Kompaan Joey Greenhorn,2.35,India Pale Ale,330.0
+0.08,La Bête,2.09,Belge blonde forte & Golden Ale,330.0
+0.06,Brlo pale ale,1.99,Pale Ale,330.0
+0.055,Jopen Extra Stout,1.99,Stout & Porter,330.0
+0.09,Brouwerij 't IJ Columbus,2.19,Belge blonde forte & Golden Ale,330.0
+0.055,And Union SUNDAY,1.99,Pale Ale,330.0
+0.045,Cinema Brewers Big Lebowski,2.29,Pils & Lager,330.0
+0.07400000000000001,Bevog Rudeen Black IPA,3.39,India Pale Ale,330.0
+0.065,Troost IPA,2.49,India Pale Ale,300.0
+0.075,Ardwen Hop's Cure,2.39,Triple,330.0
+0.078,Põhjala Must Kuld,2.95,Stout & Porter,330.0
+0.06,La Rouget De Lisle Burgonde,2.69,Fruitée & aromatisée,330.0
+0.06,Texels Skuumkoppe,1.49,Blanche & Weizen,300.0
+0.064,La Rouget Combe aux Loups,2.59,Brune,330.0
+0.047,Bintang,1.99,Pils & Lager,330.0
+0.085,Belzebuth 8.5,2.15,Blonde,330.0
+0.055,La Parisienne Blonde,2.99,Blonde,330.0
+0.065,And Union FRIDAY,1.99,India Pale Ale,330.0
+0.045,Magic Rock Inhaler,2.59,India Pale Ale,330.0
+0.068,Buxton Axe Edge,2.89,India Pale Ale,330.0
+0.085,Gavroche,2.19,Bière de garde & Saison,330.0
+0.047,Brouwerij 't IJ Flink,1.99,Pale Ale,330.0
+0.045,Blanche De Namur,1.9,Blanche & Weizen,250.0
+0.092,Crew Republic Roundhouse Kick,2.99,Stout & Porter,330.0
+0.05,Brewdog Five AM Saint,2.49,Ambrée,330.0
+0.07,Walhalla Osiris,2.69,Bière de garde & Saison,330.0
+0.075,Rince Cochon rouge,2.69,Fruitée & aromatisée,330.0
+0.025,Lindemans Framboos,2.39,Fruitée & aromatisée,250.0
+0.085,Texels Tripel,1.99,Triple,300.0
+0.044,Het Uiltje Miss Hooter,2.59,India Pale Ale,330.0
+0.065,Ardwen Woinic APA,2.39,India Pale Ale,330.0
+0.083,Brasserie Lefebvre Hopus,2.19,Belge blonde forte & Golden Ale,330.0
+0.087,Queue De Charrue rouge,2.35,Fruitée & aromatisée,330.0
+0.064,Crew Republic Drunken Sailor,2.49,India Pale Ale,330.0
+0.068,Emelisse Blond IPA,2.29,India Pale Ale,330.0
+0.042,Harviestoun Bitter & Twisted,1.79,Blonde,330.0
+0.05,And Union Steph Weiss,1.79,Blanche & Weizen,330.0
+0.07,Angelus,2.99,Blonde,330.0
+0.095,Westmalle Tripel,2.49,Trappiste & Abbaye,330.0
+0.092,Rochefort 8',2.6,Trappiste & Abbaye,330.0
+0.083,Flying Dog Raging Bitch,2.99,India Pale Ale,360.0
+0.07400000000000001,Magic Rock Cannonball,2.85,India Pale Ale,330.0
+0.08,Harviestoun Ola Dubh 12 Year,3.99,Stout & Porter,330.0
+0.045,De Molen Op & Top,2.29,Pale Ale,330.0
+0.045,Thornbridge Am:Pm,2.99,India Pale Ale,330.0
+0.064,Ch'Ti blonde,2.29,Blonde,330.0
+0.045,Ardwen Cerise,2.29,Fruitée & aromatisée,330.0
+0.075,Brugse Zot Dubbel,1.89,Brune forte,330.0
+0.075,Rochefort 6',2.6,Trappiste & Abbaye,330.0
+0.1,Muifelbrouwerij Zuster Agatha,2.39,Quadruple & Barleywine,330.0
+0.055,Brasserie De Sutter La Givrée,2.19,Blanche & Weizen,330.0
+0.048,Ninkasi Blanche,2.59,Blanche & Weizen,330.0
+0.085,Duvel,1.99,Belge blonde forte & Golden Ale,330.0
+0.06,La Parisienne Le Titi Parisien,2.99,India Pale Ale,330.0
+0.065,Siren Broken Dream,2.59,Stout & Porter,330.0
+0.1,Het Uiltje F*ck the Christmas tree is on fire!,2.95,Stout & Porter,330.0
+0.065,Baladin Nazionale,2.99,Blonde,330.0
+0.06,Texels Goudkoppe,1.75,Blonde,300.0
+0.06,Pietra,2.39,Pils & Lager,330.0
+0.08,Brouwerij 't IJ Zatte Tripel,2.19,Triple,330.0
+0.08,Omer Traditional Blonde,2.29,Belge blonde forte & Golden Ale,330.0
+0.055,Grisette Blond Gluten Free,2.49,Blonde,250.0
+0.105,Engelszell Gregorius,3.99,Trappiste & Abbaye,330.0
+0.057,Two Chefs Brewing Green Bullet IPA,2.39,India Pale Ale,330.0
+0.08800000000000001,Walhalla Shakti,2.99,India Pale Ale,330.0
+0.1,Jessenhofke WNTR,2.39,Quadruple & Barleywine,330.0
+0.066,Welde Bourbon Barrel Bock,2.49,Brune,330.0
+0.06,Lowlander IPA,2.69,India Pale Ale,330.0
+0.05,Samuel Smith India Ale,2.99,India Pale Ale,550.0
+0.04,Brlo Berliner Weisse,1.99,Bière acidulée,330.0
+0.08,Cinema Brewers King Kong,2.49,Triple,330.0
+0.045,Ninkasi Ambrée,2.69,Ambrée,330.0
+0.059,Kehrwieder Kreativbrauerei  Prototyp Lager,2.49,Pils & Lager,330.0
+0.05,Lowlander White Ale,2.69,Blanche & Weizen,330.0
+0.095,Emelisse Espresso Stout,3.49,Stout & Porter,330.0
+0.067,St. Bernardus Pater 6,1.89,Brune,330.0
+0.029,Het Uiltje Uilskuikentje,2.69,India Pale Ale,330.0
+0.085,Gouden Carolus Classic,2.39,Brune forte,330.0
+0.055,De Leckere Willibrord,1.89,Ambrée,250.0
+0.06,La Rouget Grande Rivière,2.59,Ambrée,330.0
+0.065,Parisis blonde,2.69,Blonde,330.0
+0.045,La Cagole Blanche,2.29,Blanche & Weizen,330.0
+0.065,Thiriez Blonde d'Esquelbecq,2.19,Bière de garde & Saison,330.0
+0.053,Paulaner Hefeweizen Dunkel,2.99,Blanche & Weizen,500.0
+0.047,Birra Ichnusa,1.69,Pils & Lager,330.0
+0.038,Liefmans Yell'oh,2.29,Fruitée & aromatisée,250.0
+0.09,Baladin Leon,2.99,Brune forte,330.0
+0.05,Brlo Redlight Ale,1.99,Ambrée,330.0
+0.085,3 Loups triple,3.75,Triple,500.0
+0.075,Abbaye De Baume Les Messieurs Ambrée,2.69,Ambrée,330.0
+0.06,Malheur 6,1.89,Blonde,250.0
+0.055,Magic Rock High Wire,2.25,Pale Ale,330.0
+0.056,Anchor Brewing Porter,2.49,Stout & Porter,360.0
+0.06,Magic Rock Dark Arts,2.25,Stout & Porter,330.0
+0.09,Walhalla Nanouq Winter Ale,2.99,Quadruple & Barleywine,330.0
+0.062,Lagunitas IPA,2.89,India Pale Ale,360.0
+0.05,And Union UNFLT,1.69,Pils & Lager,330.0
+0.052000000000000005,Maisel & Friends  Pale Ale,1.99,Pale Ale,330.0
+0.06,BapBap Vertigo IPA,3.19,India Pale Ale,330.0
+0.04,Siren Calypso,2.59,Bière acidulée,330.0
+0.08,Ardwen Woinic Rouge,2.59,Fruitée & aromatisée,330.0
+0.095,Kompaan Boris The Butcher,2.79,Stout & Porter,330.0
+0.07200000000000001,Brooklyn Sorachi Ace,2.99,Bière de garde & Saison,360.0
+0.058,Bird Brewery De Rumoerige Roodborst,2.55,Ambrée,330.0
+0.055,Bonnets Rouges,2.79,Fruitée & aromatisée,330.0
+0.06,Kees Farmhouse IPA,2.49,India Pale Ale,330.0
+0.056,Crew Republic Foundation 11,2.49,Pale Ale,330.0
+0.08,Bon Secours Blonde,2.79,Belge blonde forte & Golden Ale,330.0
+0.045,Siren Undercurrent,2.99,Pale Ale,330.0
+0.048,Cobra,1.59,Pils & Lager,330.0
+0.044,Walhalla Minerva,2.39,Blanche & Weizen,330.0
+0.105,Kees Export Porter 1750,3.29,Stout & Porter,330.0
+0.119,De Molen Bommen & Granaten,3.59,Quadruple & Barleywine,330.0
+0.08199999999999999,Kompaan Handlanger,2.49,India Pale Ale,330.0
+0.1,Adriaen Brouwer Winterwood,2.19,Brune forte,330.0
+0.047,Brussels Beer Project Red My Lips,3.29,India Pale Ale,330.0
+0.05,Fuller's Honey Dew,2.5,Blonde,330.0
+0.08,De Leckere Razende Swaen,1.89,Triple,250.0
+0.05,And Union NEU BLK,1.79,Brune,330.0
+0.08,Delirium Red,3.29,Fruitée & aromatisée,330.0
+0.08,St. Bernardus Prior 8,1.99,Brune forte,330.0
+0.07,Westmalle Dubbel,2.19,Trappiste & Abbaye,330.0
+0.1,De Molen Hemel & Aarde,3.95,Stout & Porter,330.0
+0.073,Bliksem Kermis In De Ale,2.99,India Pale Ale,330.0
+0.062,First Chop SYL,3.29,India Pale Ale,330.0
+0.068,Baladin Nora,2.99,Ambrée,330.0
+0.08,Achel Blonde,2.9,Trappiste & Abbaye,330.0
+0.049,Page 24 IPA,2.79,India Pale Ale,330.0
+0.055,La Parisienne Rousse,2.99,Ambrée,330.0
+0.07,Brlo Baltic Porter,2.49,Stout & Porter,330.0
+0.056,Butcher's Tears Pantagruel,2.69,Ambrée,330.0
+0.055,Jopen Jacobus RPA,1.99,Pale Ale,330.0
+0.052000000000000005,O'Hara's Pale Ale,1.79,Pale Ale,330.0
+0.06,Christoffel bière de printemps,2.29,Blonde,330.0
+0.055,La Trappe Witte Trappist,1.29,Blanche & Weizen,330.0
+0.075,Brand Sylvester,1.59,Brune forte,300.0
+0.085,St. Feuillien Brune,1.89,Brune,330.0
+0.098,Walhalla Wuldor,3.39,Quadruple & Barleywine,330.0
+0.055,St. Feuillien Belgian Coast IPA,2.39,India Pale Ale,330.0
+0.09,Straffe Hendrik Triple,2.19,Triple,330.0
+0.051,Ninkasi White Noise,3.29,India Pale Ale,330.0
+0.06,Oedipus Mannenliefde,2.69,Bière de garde & Saison,330.0
+0.04,Ninkasi Blonde,2.49,Pils & Lager,330.0
+0.06,La Rouget De Lisle L'Éphémère,2.89,Fruitée & aromatisée,330.0
+0.059,Anchor Brewing Liberty Ale,2.89,Pale Ale,360.0
+0.046,Kees Pale Ale Citra,2.49,Pale Ale,330.0
+0.035,Thornbridge Wild Swan,2.59,Pale Ale,330.0
+0.08,Achel Brune,2.8,Trappiste & Abbaye,330.0
+0.105,Het Uiltje Sgt. Night Vision,2.89,Stout & Porter,330.0
+0.075,Duchesse Anne Triple,2.99,Triple,330.0
+0.039,First Chop SUP,2.59,India Pale Ale,330.0
+0.11,La Débauche Demi Mondaine,5.19,Stout & Porter,330.0
+0.095,La Débauche Cognac Barrel,3.99,Quadruple & Barleywine,330.0
+0.08,Liefmans Goudenband,2.79,Bière acidulée,330.0
+0.06,vandeStreek Broeders,2.19,Blonde,330.0
+0.07,Flying Dog Blood Orange Ale,2.59,Pale Ale,360.0
+0.075,Lagunitas A Little Sumpin' Sumpin',2.99,Pale Ale,360.0
+0.07,Ciney Brune,1.89,Brune,250.0
+0.063,Buxton Trolltunga,2.99,Bière acidulée,330.0
+0.067,Brussels Beer Project Dark Sister,3.19,India Pale Ale,330.0
+0.08,Jessenhofke TRPL,2.29,Triple,330.0
+0.056,Welde Hop Stuff,2.59,India Pale Ale,330.0
+0.06,De Leckere Gulden Craen,2.19,Blonde,330.0
+0.095,La Débauche Nevermore,3.99,Stout & Porter,330.0
+0.058,Het Uiltje Bird of Prey IPA,2.59,India Pale Ale,330.0
+0.055,Magic Rock High Wire Grapefruit,2.89,Pale Ale,330.0
+0.095,Frankendael Three Idiots Tripel Spiced (T.I.T.S.),2.75,Triple,330.0
+0.059,Fuller's ESB,1.99,Pale Ale,330.0
+0.045,Brouwerij Noordt Noordtsingle,2.69,Blanche & Weizen,330.0
+0.085,Corsendonk Christmas,1.95,Brune forte,250.0
+0.06,Lowlander Poorter,2.69,Stout & Porter,330.0
+0.08,La Trappe Tripel,1.49,Triple,330.0
+0.12,Emelisse Barley Wine,3.75,Quadruple & Barleywine,330.0
+0.075,Borgo My Antonia,3.29,Pils & Lager,330.0
+0.08,Tre Fontane Trappistenbier,5.49,Trappiste & Abbaye,330.0
+0.075,Troost Tripel,2.99,Triple,300.0
+0.045,Telenn Du BIO,2.59,Ambrée,330.0
+0.055,La Parisienne Blanche,2.99,Blanche & Weizen,330.0
+0.085,Vicaris Triple,2.29,Triple,330.0
+0.065,Brunehaut ambrée bio,2.29,Ambrée,330.0
+0.06,Mikkeller Milk Stout,4.39,Stout & Porter,330.0
+0.039,Texels Seumerfeugel,1.69,Blanche & Weizen,300.0
+0.07,Sabetz Que Leu,2.49,Blonde,330.0
+0.06,Lancelot blonde,2.59,Blonde,330.0
+0.002,Brlo Naked,1.99,Pale Ale,330.0
+0.075,St. Feuillien Blonde,2.59,Belge blonde forte & Golden Ale,330.0
+0.048,Welde Pepper Pils,2.69,Pils & Lager,330.0
+0.06,Berging Brouwerij Bock de printemps,2.49,Blonde,330.0
+0.075,Texels Springtij,1.69,Brune,300.0
+0.06,Walhalla Ares,2.89,Ambrée,330.0
+0.07,La Trappe Dubbel,1.29,Trappiste & Abbaye,330.0
+0.065,De Prael I.P.A.,2.49,India Pale Ale,330.0
+0.085,Leffe Tripel,2.19,Triple,330.0
+0.062,Breugem Saens Zoentje,1.99,Blonde,330.0
+0.052000000000000005,Kompaan Bondgenoot,2.35,Blonde,330.0
+0.055,Gallia India Pale Ale,2.79,India Pale Ale,330.0
+0.054000000000000006,Kompaan The Mentor,2.35,Pale Ale,330.0
+0.08,Bruut Gajes Tripel,2.95,Triple,330.0
+0.1,Jessenhofke RSRV,2.39,Quadruple & Barleywine,330.0
+0.05,Texels Wit,1.79,Blanche & Weizen,300.0
+0.05,First Chop IPA,3.29,India Pale Ale,330.0
+0.055,Thiriez Les Québecoises,2.19,Blonde,330.0
+0.05,La Rouget Griottines,2.89,Fruitée & aromatisée,330.0
+0.055,La Débauche Lindy Hop,3.25,India Pale Ale,330.0
+0.065,3 Loups ambrée,3.49,Ambrée,500.0
+0.044,Rogue 4 Hops IPA,2.99,India Pale Ale,360.0
+0.09,La Rouget De Lisle Montbéliarde,2.69,Blonde,330.0
+0.069,Page 24 Blonde Réserve Hildegarde,2.79,Blonde,330.0
+0.08,Triple Secret Des Moines Brune,1.95,Brune forte,330.0
+0.1,Malheur 10,2.65,Belge blonde forte & Golden Ale,330.0
+0.035,First Chop AVA,2.59,Blonde,330.0
+0.048,Bevog Deetz Kolsch,2.89,Blonde,330.0
+0.047,Tsingtao,1.45,Pils & Lager,330.0
+0.1,Emelisse Chili Pumpkin Stout,3.49,Stout & Porter,330.0
+0.06,La Rouget De Lisle La Marseillaise,2.59,Blanche & Weizen,330.0
+0.075,Davo IPA,2.79,India Pale Ale,330.0
+0.062,Gebrouwen Door Vrouwen Bloesem Blond,2.39,Blonde,330.0
+0.065,Dubuisson Surfine,2.69,Bière de garde & Saison,330.0
+0.12,La Débauche Big Boy,4.99,Stout & Porter,330.0
+0.06,La Rouget De Lisle Millefleur au miel,2.69,Blonde,330.0
+0.055,Thiriez Etoile du Nord,2.19,Bière de garde & Saison,330.0
+0.05,Blanche Hermine,2.49,Blanche & Weizen,330.0
+0.05,Coreff Ambrée BIO,2.89,Ambrée,330.0
+0.055,Bevog Tak Pale Ale,2.79,Pale Ale,330.0
+0.025,Bronckhorster Slimme Rhakker,2.49,Pale Ale,330.0
+0.062,De Leckere Sonnen Borgh,1.89,Bière de garde & Saison,250.0
+0.069,Engelszell Benno,3.79,Brune,330.0
+0.065,Leffe Brune Dubbel,1.39,Brune,300.0
+0.055,Het Uiltje Sir Turnaround,2.99,India Pale Ale,330.0
+0.075,Kehrwieder Kreativbrauerei  SHIPA Ariana,2.99,India Pale Ale,330.0
+0.055,Texels Eyerlander,1.75,Ambrée,300.0
+0.046,Welde Badisch Gose,2.49,Bière acidulée,330.0
+0.1,La Trappe Quadrupel,1.69,Quadruple & Barleywine,330.0
+0.05,Vicaris Quinto,2.29,Blonde,330.0
+0.055,Petrus Rood Bruin,2.29,Bière acidulée,330.0
+0.058,BapBap Originale,2.89,Pale Ale,330.0
+0.085,Walhalla Heimdall,2.99,Brune forte,330.0
+0.08,Harviestoun Ola Dubh 18 ans,5.59,Stout & Porter,330.0
+0.115,Urthel Samaranth,3.19,Quadruple & Barleywine,330.0
+0.065,Bevog Kramah IPA,2.99,India Pale Ale,330.0
+0.07400000000000001,Meantime India Pale Ale,2.99,India Pale Ale,330.0
+0.054000000000000006,First Chop POP,3.19,India Pale Ale,330.0
+0.085,Davo Tripel,2.69,Triple,330.0
+0.041,First Chop HOP,2.99,India Pale Ale,330.0
+0.058,Thiriez La Maline,2.19,Stout & Porter,330.0
+0.05,Colomba,2.89,Blanche & Weizen,330.0
+0.07,Brussels Beer Project Grosse Bertha,3.29,Blanche & Weizen,330.0
+0.046,Bruut Vogt,2.79,Pale Ale,330.0
+0.055,Texels Vuurbaak,1.79,Pale Ale,300.0
+0.056,Uberquell Lieblings Imperial Lager,1.99,Pils & Lager,330.0
+0.041,Magic Rock Salty Kiss,2.36,Bière acidulée,330.0
+0.065,Mort Subite Oude Kriek Lambic,2.89,Fruitée & aromatisée,380.0
+0.047,Thornbridge I Love U Will You Marry Me,2.79,Fruitée & aromatisée,330.0
+0.064,Texels Dubbel,1.75,Brune,300.0
+0.063,First Chop PIP,3.29,Bière de garde & Saison,330.0
+0.052000000000000005,Kompaan 72Hr Raspberry Sour,2.95,Bière acidulée,330.0
+0.058,Thiriez Ambrée d'Esquelbecq,2.19,Bière de garde & Saison,330.0
+0.05,La Débauche Volga,2.99,Pale Ale,330.0
+0.055,La Parisienne Brune,2.99,Brune,330.0
+0.058,Brothers In Law Australian Pale Ale,2.49,Pale Ale,330.0
+0.046,Tiny Rebel CWTCH,3.19,Ambrée,330.0
+0.042,Wild Beer Co Bibble,2.35,Pale Ale,330.0
+0.06,Siren Pompelmocello,2.79,India Pale Ale,330.0
+0.1,De Molen Hel & Verdoemenis,4.49,Stout & Porter,330.0
+0.091,Kompaan Bloedbroeder,2.79,Stout & Porter,330.0
+0.065,Meantime Chocolate Porter,2.89,Stout & Porter,330.0
+0.065,Brouwerij 't IJ Natte Dubbel,2.19,Brune,330.0
+0.059,Page 24 Robust Porter,2.79,Stout & Porter,330.0
+0.079,Page 24 Triple,2.79,Triple,330.0
+0.078,Gebrouwen Door Vrouwen Tricky Tripel,2.49,Triple,330.0
+0.051,Two Chefs Brewing Red Rocket,2.49,Ambrée,330.0
+0.055,Wild Beer Co Fresh,2.49,Pale Ale,330.0
+0.05,Kompaan Kameraad,2.39,Pils & Lager,330.0
+0.07,Vicaris Tripel Gueuze,2.39,Bière acidulée,330.0
+0.075,Budels Kolos,1.99,Belge blonde forte & Golden Ale,300.0
+0.06,Cervoise Lancelot,2.59,Ambrée,330.0
+0.069,3 Loups Extra Stout,3.59,Stout & Porter,500.0
+0.08,Malheur 8,2.39,Belge blonde forte & Golden Ale,330.0
+0.05,Two Chefs Brewing Tropical Ralphie,2.29,Blanche & Weizen,330.0
+0.045,Troost Cerveza Extraordinaria,2.39,Pils & Lager,300.0
+0.05,Samuel Smith Taddy Porter,2.99,Stout & Porter,550.0
+0.05,Samuel Smith Nut Brown Ale,2.99,Brune,550.0
+0.06,Bronckhorster Royal Rha,2.49,India Pale Ale,330.0
+0.05,Bruut Wazig,2.69,India Pale Ale,330.0
+0.09,St. Feuillien Noël,2.49,Brune forte,330.0
+0.065,Pontus Brewing Lighthouse,2.75,Bière de garde & Saison,330.0
+0.05,Samuel Smith Organic Chocolate Stout,3.05,Stout & Porter,550.0
+0.07,vandeStreek Koper,2.55,Bière de garde & Saison,330.0
+0.049,Page 24 Blanche,2.49,Blanche & Weizen,330.0
+0.077,De Eeuwige Jeugd Bullebak,2.75,Triple,330.0
+0.05,La Parisienne Libérée,2.99,Les nouveautés,330.0
+0.07,Wild Beer Co Modus Operandi,4.49,Bière acidulée,330.0
+0.085,Vicaris Generaal,2.69,Brune,330.0
+0.065,Kees Spring Blossom Pale Ale,2.69,India Pale Ale,330.0
+0.05,vandeStreek Bier Hop Art,2.39,India Pale Ale,330.0
+0.1,Jopen Ongelovige Thomas,2.49,Quadruple & Barleywine,330.0
+0.115,Kompaan Tommy Double Barrel,5.75,Pale Ale,330.0
+0.07,Troost Honing Blond,2.65,Blonde,300.0
+0.075,Bird Brewery Miss Scarecrow,2.99,Ambrée,330.0
+0.085,Bronckhorster Brok in de Keel,2.59,Brune forte,330.0
+0.1,Het Uiltje Most Wonderful Time For A Beer,3.19,Brune forte,330.0
+0.05,Baladin Isaac,2.99,Blanche & Weizen,330.0
+0.065,Bronckhorster Alternative,2.69,Brune,330.0
+0.064,Borgo ReAle Extra,3.29,India Pale Ale,330.0
+0.05,Aubrac ambrée,2.79,Ambrée,330.0
+0.092,Flying Dog Gonzo Imperial Porter,3.49,Stout & Porter,360.0
+0.046,Kompaan Jimmy Skimmed,2.29,Stout & Porter,330.0
+0.071,Kompaan Vrijbuiter,2.59,Stout & Porter,330.0
+0.069,Page 24 Ambrée Réserve Hildegarde,2.69,Ambrée,330.0
+0.07,Samuel Smith Imperial Stout,2.39,Stout & Porter,360.0
+0.042,First Chop POD,2.89,Stout & Porter,330.0
+0.05,Brouwerij Noordt Christmas Session Ale,2.79,Pale Ale,330.0
+0.115,,3.29,Quadruple & Barleywine,330.0
+0.05,Samuel Smith Oatmeal Stout,2.99,Stout & Porter,550.0
+0.065,De Eeuwige Jeugd Vuig Tuig,2.75,India Pale Ale,330.0
+0.09,Kerstpater,2.39,Brune forte,330.0
+0.065,Kees East India Porter,2.79,Stout & Porter,330.0
+0.055,Bruut Stennis,2.59,Blonde,330.0
+0.057,De Eeuwige Jeugd Lellebel,2.75,Blonde,330.0
+0.052000000000000005,Gallia Weissbier,2.79,Blanche & Weizen,330.0
+0.038,Gipsy Hill Beatnik,2.39,Pale Ale,330.0
+0.045,Lowlander American Pale Ale,2.79,Pale Ale,330.0
+0.085,Santa Bee,2.39,Brune forte,330.0
+0.065,Steenbrugge Dubbel,2.49,Brune,330.0
+0.066,De Prael Bock de printemps,2.29,Blonde,330.0
+0.085,Jopen Koyt,2.19,Brune,330.0
+0.055,Frankendael White Bastard,2.75,Blanche & Weizen,330.0
+0.046,Magic Rock Rapture,2.25,Ambrée,330.0
+0.048,La Rouget Blanche des Plateaux,2.59,Blanche & Weizen,330.0
+0.05,La Rouget Blonde,2.59,Blonde,330.0
+0.092,Hoop Oudt Heyn,3.49,Pale Ale,330.0
+0.075,Texels Noorderwiend,2.19,Pale Ale,300.0
+0.052000000000000005,Two Chefs Brewing Funky Falcon,2.29,Pale Ale,330.0
+0.042,Gipsy Hill Southpaw,2.19,Ambrée,330.0
+0.063,Gebrouwen Door Vrouwen Donker Wit,2.39,Blanche & Weizen,330.0
+0.06,Gebrouwen Door Vrouwen Gin Weizen,2.39,Blanche & Weizen,330.0
+0.057,Kompaan Badgast,2.25,Pale Ale,330.0
+0.062,Van Vollenhoven Falcon Ale,2.99,Pale Ale,330.0
+0.05,Gipsy Hill Hunter,3.39,Pils & Lager,440.0
+0.08,De Leckere Razende Swaen,2.39,Triple,330.0
+0.08,Zundert Trappist,2.59,Tripel,330.0
+0.056,Rogue Hazelnut Brown Nectar,2.99,Brune forte,360.0
+0.06,De Eeuwige Jeugd Nitwit,2.75,Blanche & Weizen,330.0
+0.055,Gipsy Hill Metro,3.89,Pale Ale,440.0
+0.058,Aubrac Blonde,2.79,Blonde,330.0
+0.047,Steamworks Killer Cucumber Ale,2.99,Pale Ale,330.0
+0.036000000000000004,Gipsy Hill Denali,2.99,Pils & Lager,440.0
+0.038,Gebrouwen Door Vrouwen Zonnig Zeewit,2.39,Blanche & Weizen,330.0
+0.056,Steamworks Heroica Red Ale,2.99,Brune forte,330.0
+0.065,Hopfmeister Brazilian Road Trip,3.99,Stout & Porter,330.0
+0.067,Steamworks Flagship IPA,2.99,India Pale Ale,330.0
+0.041,Gipsy Hill Moxie,3.39,Bière acidulée,440.0
+0.07,Gipsy Hill Drifter,4.39,India Pale Ale,440.0
+0.05,Oedipus Pais Tropical,2.39,Les nouveautés,330.0
+0.055,Gipsy Hill Night Owl,3.19,Brune,440.0
+0.064,Davo Surf Ale,2.49,Blonde,330.0
+0.047,BapBap Blanc Bec,2.89,Blanche & Weizen,330.0
+0.052000000000000005,Steamworks Pale Ale,2.99,Pale Ale,330.0
+0.084,Tripel Karmeliet,1.69,Triple,330.0
+0.06,La Chouffe Soleil,1.99,Blonde,330.0
+0.095,Duvel Tripel Hop,1.97,Belge blonde forte & Golden Ale,330.0
+0.045,Brewdog Clockwork Tangerine,1.99,India Pale Ale,330.0
+0.05,Limburgse Witte,1.39,Blanche & Weizen,330.0
+0.004,Kehrwieder Kreativbrauerei  ü.NN - überNormalNull,2.49,India Pale Ale,330.0
+0.044,Pilsner Urquell,1.79,Pils & Lager,330.0
+0.038,Liefmans Fruitesse,1.29,Fruitée & aromatisée,250.0
+0.12,Bush Amber,2.19,Belge blonde forte & Golden Ale,330.0
+0.068,Grain d'orge BIO,1.09,Blonde,250.0
+0.055,St. Bernardus Wit,1.99,Blanche & Weizen,330.0
+0.068,Affligem Blond,1.12,Blonde,300.0
+0.105,Gulden Draak Quadruple,2.39,Quadruple & Barleywine,330.0
+0.11,Kasteel Donker,2.05,Quadruple & Barleywine,330.0
+0.105,Gulden Draak,1.85,Brune forte,330.0
+0.11,Kasteel Tripel,2.65,Triple,330.0
+0.066,Leffe Blonde,1.09,Blonde,300.0
+0.05,Kirin Ichiban,1.99,Pils & Lager,330.0
+0.105,"Piraat 10,5",2.29,Belge blonde forte & Golden Ale,330.0
+0.065,Grimbergen Dubbel,1.39,Brune,330.0
+0.035,Wilderen Kriek,2.29,Fruitée & aromatisée,330.0
+0.115,Malheur 12,2.89,Quadruple & Barleywine,330.0
+0.09,Troubadour Magma,2.49,India Pale Ale,330.0
+0.05,Het Uiltje Pineapple Weizen,2.49,Blanche & Weizen,330.0
+0.047,Stiegl Columbus 1492,1.99,Pale Ale,330.0
+0.055,Vedett Extra Ordinary IPA,2.39,India Pale Ale,330.0
+0.065,Maisel & Friends  Choco Porter,1.99,Stout & Porter,330.0
+0.043,Hite Pale Lager,1.69,Pils & Lager,330.0
+0.09,Brasserie De Sutter Folle FurieuZ,2.39,Triple,330.0
+0.047,Newcastle Brown Ale,1.39,Brune,330.0
+0.067,Grimbergen Blond,1.79,Blonde,330.0
+0.047,Sapporo Premium Beer,2.09,Pils & Lager,330.0
+0.035,Lindemans Kriek,1.89,Fruitée & aromatisée,250.0
+0.052000000000000005,Vedett Extra Blond,1.59,Pils & Lager,330.0
+0.048,Harviestoun Schiehallion,1.89,Pils & Lager,330.0
+0.049,Saigon Export,1.49,Pils & Lager,360.0
+0.047,Wild Beer Co Millionaire,2.95,Stout & Porter,330.0
+0.048,Kompaan Thierry Sauvage,2.09,Bière de garde & Saison,330.0
+0.065,Budels Bock de printemps,1.45,Blonde,300.0
+0.095,Urthel Hop-It,2.59,Belge blonde forte & Golden Ale,330.0
+0.065,Bax Bier Rokkenjager,2.29,Ambrée,330.0
+0.065,Van Vollenhoven East Indiës Pale Ale,2.79,India Pale Ale,330.0
+0.062,Orval,2.39,Trappiste & Abbaye,330.0
+0.054000000000000006,Magic Rock Common Grounds,2.25,Stout & Porter,330.0
+0.07400000000000001,Thornbridge Halcyon,3.69,India Pale Ale,330.0
+0.0,Heineken 0.0,0.89,Sans alcool,300.0
+0.053,Heineken H41,1.59,Pils & Lager,330.0
+0.048,Ratsherrn Brauerei Volbeat Beer Pilsner,1.75,Pils & Lager,330.0
+0.035,Lindemans Cassis,2.55,Fruitée & aromatisée,380.0
+0.048,Welde No. 1,1.39,Pils & Lager,330.0
+0.066,Thornbridge Wild Raven,3.95,India Pale Ale,330.0
+0.05,Thornbridge Chiron,3.09,Pale Ale,330.0
+0.08,De Koninck Triple D'Anvers,2.49,Triple,330.0
+0.1,Thornbridge Bracia,12.69,Brune forte,500.0
+0.105,Piraat Tripel Hop,1.99,Belge blonde forte & Golden Ale,330.0
+0.1,Paix Dieu Abdijbier,3.09,Triple,330.0
+0.059,Thornbridge Jaipur,3.29,India Pale Ale,330.0
+0.065,Troubadour Blond,1.79,Blonde,330.0
+0.052000000000000005,Welde Kurpfalzbräu Helles,1.49,Pils & Lager,500.0
+0.046,Gipsy Hill Hepcat,2.29,Les nouveautés,330.0
